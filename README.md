@@ -16,6 +16,8 @@ Marital: Single and Married
 
 1. ![image](https://github.com/Maris27/POWER-BI-TASK-3-4-5/assets/140453106/48cf3495-c8ae-46e9-b1d1-ecaa9d2f7a24)
 
+
+
 2. in answering question 2 i followed this steps.
 
 In the "Fields" pane on the right, i selected the table i want to add the "Age Band" column to which is the bank full.
@@ -27,6 +29,12 @@ In the "Calculations" group, i clicked on "New Column."
 In the formula bar that appears at the top, enter the following DAX formula:Age Band =
 IF('YourTableName'[Age] <= 30, "Young",
     IF('YourTableName'[Age] <= 50, "Mid-aged", "Old")) 
+
+![image](https://github.com/Maris27/POWER-BI-TASK-3-4-5/assets/140453106/6d6da5e2-bd91-4154-8c32-acb2aa0828f0)
+
+
+3.
+    
 
 
 
