@@ -33,7 +33,11 @@ IF('YourTableName'[Age] <= 30, "Young",
 ![image](https://github.com/Maris27/POWER-BI-TASK-3-4-5/assets/140453106/6d6da5e2-bd91-4154-8c32-acb2aa0828f0)
 
 
-3.
+3. ![image](https://github.com/Maris27/POWER-BI-TASK-3-4-5/assets/140453106/55e9b818-44b8-4a6d-89ad-734cbac0baa1)
+
+  ![image](https://github.com/Maris27/POWER-BI-TASK-3-4-5/assets/140453106/533dc5b6-c7af-4f03-b696-1cb4827596ae)
+ 
+
     
 
 
