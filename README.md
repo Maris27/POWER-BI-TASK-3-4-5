@@ -1,3 +1,9 @@
+# Task 3
+
+![image](https://github.com/Maris27/POWER-BI-TASK-3-4-5/assets/140453106/55dd7204-e51f-462d-9af9-75030bde8ae0)
+
+
+
 # TASK FOUR 
 
 In task four we were asked to carry out the following below using the Bank Term Subscription Dataset
