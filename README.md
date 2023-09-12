@@ -1,7 +1,7 @@
-# Task 3
+# Task THREE
 
 
-We were asked to Create a tracking DASHBOARD for a bank using the ‘Bank Term Deposit Subscription’ dataset provided.
+We were asked to create a tracking DASHBOARD for a bank using the ‘Bank Term Deposit Subscription’ dataset provided.
 
 First thing i did was to load the data set into the Power Bi, checked out for null values also checked if the data types of the columns were okay, then i used the DAX function to get the average age of the depositors  and also the average balance.
 Next thing was to choose an approriate color for the background and canvas before i started creating visuals on it.
@@ -99,6 +99,7 @@ step 3. In the "Calculations" group, i clicked on "New Column In the formula bar
 
  ![image](https://github.com/Maris27/POWER-BI-TASK-3-4-5/assets/140453106/55e9b818-44b8-4a6d-89ad-734cbac0baa1)
 
+ 
   ![image](https://github.com/Maris27/POWER-BI-TASK-3-4-5/assets/140453106/533dc5b6-c7af-4f03-b696-1cb4827596ae)
 
 
@@ -130,6 +131,15 @@ Therefore the total depositors on loan is
 
 
 # TASK FIVE
+
+For task 5 we were asked to create a relationship among three tables using the OLIST datasets.
+I had to load all three datasets into the Power Bi one after the other, and also ensured the data types were accurate.
+In creating relationship among tables i used the data modelling to create the relationship, which shows how the tables are connected.
+
+
+
+
+![image](https://github.com/Maris27/POWER-BI-TASK-3-4-5/assets/140453106/8b3fca28-6158-403a-93cc-100a958d97b9)
 
 
 
