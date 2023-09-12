@@ -1,4 +1,4 @@
-# Task THREE
+# TASK THREE
 
 
 We were asked to create a tracking DASHBOARD for a bank using the ‘Bank Term Deposit Subscription’ dataset provided.
